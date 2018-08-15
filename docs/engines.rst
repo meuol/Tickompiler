@@ -4916,9 +4916,9 @@ Starts recording player performance for an upcoming animation cue. ::
 Does a happy animation according to ``type`` if the player hit everything since the last ``0x102``, or a sad animation
 otherwise. Values for ``type`` are:
 
-- 0: Smirk (used for kicks in Karate Man Kicks!)
+- 0: Blush and smile (used for combos in Karate Man Combos!)
 
-- 1: Blush and smile (used for combos in Karate Man Combos!)
+- 1: Smirk (used for kicks in Karate Man Kicks!)
 
 0x104 - Karate Joe Animations
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
